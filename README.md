@@ -1,6 +1,12 @@
 This repository was created in order to help people create their own dictionaries for AOSP keyboard or for general use! Credits are given bellow for the repositories used in order to achieve this goal.
 
-1)Find an language dump file from https://archive.org/ or http://opus.nlpl.eu/OpenSubtitles2018.php or http://opus.nlpl.eu/index.php
+1)Find an language dump file from https://archive.org/ or http://opus.nlpl.eu/OpenSubtitles2018.php or http://opus.nlpl.eu/index.php 
+
+OR the easier way!
+ Use this (https://github.com/hermitdave/FrequencyWords/tree/master/content/2016) gitrepository to download the language wordlist needed
+ then use ./freq_words_parser.sh command to make the wordlist in the format needed for AOSP.
+ Skip step 2) if you used this method!
+ 
 
 2)Edit sort.sh to match the file downloaded. For tar.gz files use "zcat", for bz2 use "bzcat" else try "cat". And run it with ./sort.sh (running this command will take LONG if the file size is big)
 
