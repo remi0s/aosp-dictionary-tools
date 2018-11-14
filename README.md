@@ -2,7 +2,8 @@ This repository was created in order to help people create their own dictionarie
 
 1)Find an language dump file from https://archive.org/ or http://opus.nlpl.eu/OpenSubtitles2018.php or http://opus.nlpl.eu/index.php 
 
-OR the easier way!
+OR the easier way:
+
  Use this (https://github.com/hermitdave/FrequencyWords/tree/master/content/2016) gitrepository to download the language wordlist needed
  then use ./freq_words_parser.sh command to make the wordlist in the format needed for AOSP.
  Skip step 2) if you used this method!
