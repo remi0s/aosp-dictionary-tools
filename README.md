@@ -16,7 +16,7 @@ Have Fun!
 
 CREDITS: 
 
-https://github.com/hermitdave/FrequencyWords for opensubtitles archive project! 
+https://github.com/hermitdave/FrequencyWords for opensubtitles archive project! You can use the txt files provided here in content/2016  instead of downloading huge dump files for each languages.
 
 Used http://opus.nlpl.eu/OpenSubtitles2018.php in order to create the wordlists.
 
