@@ -14,7 +14,7 @@ OR the easier way:
 
 3)After the wordlist is created use the parser.pl with command perl parser.pl filename > newfilename
 
-4)Spellchecking the wordlist is essential. There are many ways to do it but i would recommend using a python script because its less time consuming. 
+4)Spellchecking the wordlist is essential. There are many ways to do it but i would recommend using a python script because its less time consuming. You can find plenty of dictionaries on credits [5]
 
 5)Add header information in the new wordlist file
 
@@ -24,13 +24,15 @@ Have Fun!
 
 CREDITS: 
 
-https://github.com/hermitdave/FrequencyWords for opensubtitles archive project! You can use the txt files provided here in content/2016  instead of downloading huge dump files for each languages.
+[1] https://github.com/hermitdave/FrequencyWords for opensubtitles archive project! You can use the txt files provided here in content/2016  instead of downloading huge dump files for each languages.
 
-Used http://opus.nlpl.eu/OpenSubtitles2018.php in order to create the wordlists.
+[2] Used http://opus.nlpl.eu/OpenSubtitles2018.php in order to create the wordlists.
 
-https://github.com/linuxscout/yaraspell I used this repository for spellchecking the arabic wordlist!
+[3] https://github.com/linuxscout/yaraspell I used this repository for spellchecking the arabic wordlist!
 
-https://github.com/androidtweak/dictionaries/tree/f936da825c1d172e83e3b8ed8ddc9c30bc168d57/tools for the original tools used!
+[4] https://github.com/androidtweak/dictionaries/tree/f936da825c1d172e83e3b8ed8ddc9c30bc168d57/tools for the original tools used!
+
+[5] https://github.com/titoBouzout/Dictionaries used for greek spellcheck!
 
 
 
