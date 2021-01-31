@@ -17,6 +17,7 @@ OR the easier way:
 4)Spellchecking the wordlist is essential. There are many ways to do it but i would recommend using a python script because its less time consuming. You can find plenty of dictionaries on credits [5]
 
 5)Add header information in the new wordlist file at the first row. The header should be similar to the following, but you should change the values to match your locale. 
+
 'dictionary=main:el,locale=el,description=Greek dict created from OpenSubtitles by Rafail Mastoras,date=1542122459,version=1'
 
 6)Edit run.sh file to fit the filenames and then use it with ./run.sh command to create the binary dictionary
